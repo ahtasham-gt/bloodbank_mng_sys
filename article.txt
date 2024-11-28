@@ -18,20 +18,3 @@ Handed Over Page
 ​​​​​​​The page where all given blood or handed over blood requests are listed and managed.
 Users Page
 ​​​​​​​The page where can system admin user manages the list the system users.
-How to Run
-Download the source code and extract the zip file.
-Download or set up any local web server that runs PHP script.
-Open the web-server database and create a new database name it car_rental_db.
-Import the SQL file located in the database folder of the source code.
-Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
-Open a web browser and browse the project. E.g [http://localhost/car-rental-management-system] for the client-side and [http://localhost/car-rental-management-system/admin] for the admin/staff side.
-Admin Default Access
-Username: admin
-
-Password: admin123
-
-I hope this simple Blood Bank Management System project will help you with what you are looking for. Feel free to download the source code. Take note that this simple project is more likely a database management system or inventory management system.
-
-Explore more on this website for more source codes and tutorials.
-
-Enjoy!
